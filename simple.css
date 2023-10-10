@@ -1,0 +1,14 @@
+.simple{
+    background-color: azure;
+    height: 10%;
+    width: 20%;
+    text-align: left;
+    color: beige;
+}
+.hard{
+    background-color: aquamarine;
+    height:15%;
+    width: 20%;
+    text-align: center;
+    color: black;
+}

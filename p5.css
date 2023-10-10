@@ -1,0 +1,14 @@
+.para{
+    background-color: rgb(114, 177, 193);
+    margin: 15px ;
+    height: 400px;
+    width: 67px;
+    padding: 45px;
+    border: 45px solid red;
+    border-radius: 40px;
+
+    
+}
+.text{
+    text-align:center;
+}

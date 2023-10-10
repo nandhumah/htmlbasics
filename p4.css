@@ -1,0 +1,12 @@
+.para{
+    background-color: aquamarine;
+    height: 40%;
+    width: 20%;
+    margin: 60px;
+    border: 20px solid black;
+    padding: 70px;
+
+}
+.text{
+    text-align: justify;
+}

@@ -1,0 +1,26 @@
+body{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 0;
+     height: 100vh;
+    
+}
+.container{
+    background-color: rgb(138, 170, 210);
+    height: 40vh;
+    width: 40vh;
+    text-align: center;
+    border-radius: 5px;
+    padding: 60px;
+    box-shadow: 0 2px 4px black;
+
+
+}    
+.inputdata {
+    margin: 30px;
+    font-size: 40 px;
+}
+
+
+    

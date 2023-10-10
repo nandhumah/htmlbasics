@@ -1,0 +1,13 @@
+table{
+    background-color: yellowgreen;
+    height: 10px;
+    width: 30px;
+    border: 2px salmon;
+    border-radius: 3px;
+
+}
+table th,tb{
+     
+     border: 1px red;
+     border-radius: 2px;
+}

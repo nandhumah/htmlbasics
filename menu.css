@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+.menubar{
+    width: 50%;
+    background-color: rgb(90, 210, 120);
+    overflow: auto;
+    border: 5px solid black;
+}
+.menubar a{
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 15px 0;
+    transition: all 0.3s ease;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+
+}
+.menubar a:hover{
+    background-color: rgb(244, 255, 244);
+}
